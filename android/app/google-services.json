@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201103685850",
+    "project_id": "soapaura-e993d",
+    "storage_bucket": "soapaura-e993d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201103685850:android:d9757d36f799799e570de3",
+        "android_client_info": {
+          "package_name": "com.anu.soapaura.soap_aura_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfOWfD5hdd0St2P81Vb9EQlAPFOedh5_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
